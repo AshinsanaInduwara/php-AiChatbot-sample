@@ -5,4 +5,6 @@
 # Get API FROM
 <h3><a href="http://brainshop.ai/">BrainShop</a></h3>
 
+<div style="background-color:black;">
 <img src="https://brainshop.ai/sites/default/files/color/responsive_bartik-28c3dc97/logo.png"/>
+</div>
